@@ -484,18 +484,7 @@ const CardImage = ({ navigation }) => {
         </TouchableOpacity>
 
 
-        {/* <TouchableOpacity
-          onPress={() => {
-            // navigation.openDrawer();
-            // navigation.toggleDrawer();
-
-            navigation.navigate('Home');
-          }}
-        >
-          <Text>
-            Home 1
-         </Text>
-        </TouchableOpacity> */}
+       
 
 
         <TouchableOpacity
